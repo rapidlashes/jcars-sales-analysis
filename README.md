@@ -5,5 +5,5 @@ Now since my database is connected to power BI, I just imported the csv file fro
 
 CLEANING
 
-removed duplicates, changed the date columns from text format to date format using locale (English:United Kingdom)
+Removed duplicates, changed the date columns from text format to date format using locale (English:United Kingdom).
 Age column cleaned too, removed the (-) sign from individual ages.
