@@ -1,3 +1,4 @@
+PPREREQUISITES
 Raw csv file data was first imported to my postgres SQL database then the database connected to my visualization tool (power BI).
 The postgres SQL Im using here is cloud based from Aiven.
 The tool I used to import this csv file to my Aiven postgres SQL database is dbeaver version 26.1.0
