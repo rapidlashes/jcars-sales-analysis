@@ -9,3 +9,7 @@ CLEANING
 
 Removed duplicates, changed the date columns from text format to date format using locale (English:United Kingdom).
 Age column cleaned too, removed the (-) sign from individual ages.
+Maintained the Age column in the text format(Age deosnt change through out)
+All columns that have prices were converted into whole numbers for them to be able to be querried arithmetically
+
+## KPI'S AND DASHBOARD
