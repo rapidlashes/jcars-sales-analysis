@@ -13,4 +13,4 @@ Maintained the Age column in the text format(Age deosnt change through out)
 All columns that have prices were converted into whole numbers for them to be able to be querried arithmetically
 
 ## KPI'S AND DASHBOARD
-While trying to find the leadtime in days between order date and delivery date , I noticed some orders have their order date higher than delivery date so I ignored the negatives by using the 'ABS' function
+While trying to find the leadtime in days between order date and delivery date , I noticed some orders have their order date higher than delivery date so I ignored the negatives by using the '''ABS function
