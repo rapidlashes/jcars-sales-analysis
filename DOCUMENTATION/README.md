@@ -15,4 +15,9 @@ All columns that have prices were converted into whole numbers for them to be ab
 ## KPI'S AND DASHBOARD
 While trying to find the leadtime in days between order date and delivery date , I noticed some orders have their order date higher than delivery date so I ignored the negatives by using the `ABS()` function
 
+## SCREESHOTS
+
+***KPI cards***
+
+<img width="1633" height="893" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/88b4a20f-7ad8-429f-821e-742c311b5d05" />
 
