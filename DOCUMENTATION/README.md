@@ -9,35 +9,31 @@ Now since my database is connected to power BI, I just imported the csv file fro
 
 Removed duplicates, changed the date columns from text format to date format using locale (English:United Kingdom).
 Age column cleaned too, removed the (-) sign from individual ages.
-Maintained the Age column in the text format(Age deosnt change through out)
+Age column converted into numeric, blank customer  age values and ages less than 10 were flagged 
 All columns that have prices were converted into whole numbers for them to be able to be querried arithmetically
+Calculated the column for Delivery time which was (delivery date - order date), used the return function to return only values that are positive. All negative values were converted to blanks so that they dont affect arithmentic functions like `AVG()`, `SUM()`, `MAX()`, `MIN()` associated with this column.
 
 ## KPI'S AND DASHBOARD
-While trying to find the leadtime in days between order date and delivery date , I noticed some orders have their order date higher than delivery date so I ignored the negatives by using the `ABS()` function
+All KPI visuals were filtered with the age validity, rendering the flagged age values invalid and excluding them from being querried. The flagged values are later to be investigated.
 
 ## SCREENSHOTS
 
 ***KPI cards***
 
-<img width="1633" height="893" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/88b4a20f-7ad8-429f-821e-742c311b5d05" />
+
 
 ***Revenue visuals***
 
-<img width="1667" height="893" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/619e39de-9c37-4a89-821e-74224cef7038" />
 
-<img width="1550" height="880" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/731ca802-e749-47ca-903a-f816344d30e1" />
-
-<img width="1694" height="912" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/2a22d07c-7cc3-45e1-852f-fb7bddeca80a" />
 
 ***Insights***
 
-<img width="1530" height="895" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/58c00e57-f021-41b2-bd34-34f9b2340833" />
+
 
 ***Recommendations***
 
-<img width="1256" height="911" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/ddce11a8-1323-45be-95c5-7ce97a6af57f" />
 
 ***Dashboard***
 
-<img width="1630" height="900" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/bffb3df2-dc45-4549-a725-48856e8739d4" />
+
 
