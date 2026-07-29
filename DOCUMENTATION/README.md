@@ -20,20 +20,32 @@ All KPI visuals were filtered with the age validity, rendering the flagged age v
 
 ***KPI cards***
 
+<img width="931" height="528" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/54ff822c-a9bb-4de4-8762-5fb6332d9ecf" />
 
 
 ***Revenue visuals***
 
+<img width="1223" height="676" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/d1d2ae73-7c9b-42d5-9529-94439c7ce6ef" />
 
+<img width="1259" height="722" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/dbc31289-3df1-419a-bf2e-12b59789b22e" />
+
+***Delivery time***
+
+<img width="1241" height="720" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/2c6dd2c9-3af1-417b-93ff-f97777a11f75" />
 
 ***Insights***
 
+<img width="1146" height="547" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/2cc223f2-6453-4582-af82-0e2f099b8753" />
 
 
 ***Recommendations***
 
+<img width="872" height="567" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/0bc0ec97-2a36-4867-9a42-11687d54f4b4" />
+
 
 ***Dashboard***
+
+<img width="1231" height="721" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/af0c8c6f-ec5d-4336-a431-82fe41797589" />
 
 
 
