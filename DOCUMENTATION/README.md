@@ -55,5 +55,6 @@ All KPI visuals were filtered with the age validity, rendering the flagged age v
 
 <img width="1231" height="721" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/af0c8c6f-ec5d-4336-a431-82fe41797589" />
 
-
+***Star schema**
+<img width="1316" height="663" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/934bdeab-ce8d-4082-850b-ffeeef4ab8b5" />
 
