@@ -37,6 +37,9 @@ All KPI visuals were filtered with the age validity, rendering the flagged age v
 
 <img width="1214" height="387" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/26eb612d-9f28-4547-963f-0c15e14d95cd" />
 
+***Top 10 Customers by Revenue***
+
+<img width="348" height="259" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/50524afb-2c4c-4dc1-b5d4-5ca19764642e" />
 
 ***Insights***
 
@@ -45,7 +48,7 @@ All KPI visuals were filtered with the age validity, rendering the flagged age v
 
 ***Recommendations***
 
-<img width="872" height="567" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/0bc0ec97-2a36-4867-9a42-11687d54f4b4" />
+<img width="903" height="262" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/0e419cb1-8b24-428a-8705-6c2ed1698dfe" />
 
 
 ***Dashboard***
