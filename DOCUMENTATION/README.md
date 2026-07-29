@@ -29,9 +29,14 @@ All KPI visuals were filtered with the age validity, rendering the flagged age v
 
 <img width="1259" height="722" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/dbc31289-3df1-419a-bf2e-12b59789b22e" />
 
+***Sales Rep analysis***
+
+<img width="937" height="355" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/8820a228-e0f4-4e92-8cee-a0514e8a01a6" />
+
 ***Delivery time***
 
-<img width="1241" height="720" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/2c6dd2c9-3af1-417b-93ff-f97777a11f75" />
+<img width="1214" height="387" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/26eb612d-9f28-4547-963f-0c15e14d95cd" />
+
 
 ***Insights***
 
