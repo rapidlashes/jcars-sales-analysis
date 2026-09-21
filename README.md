@@ -58,3 +58,6 @@ All KPI visuals were filtered with the age validity, rendering the flagged age v
 ***Star schema**
 <img width="1316" height="663" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/934bdeab-ce8d-4082-850b-ffeeef4ab8b5" />
 
+## SUMMARY
+The project was solely done in Power BI. It focuses on Proficiency on Power BI as a tool not only for visualisation but also querrying and transforming data and the use of DAX measures to analyse the data.
+Key perfromance Indicators tracked are
