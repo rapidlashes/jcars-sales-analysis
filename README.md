@@ -60,4 +60,4 @@ All KPI visuals were filtered with the age validity, rendering the flagged age v
 
 ## SUMMARY
 The project was solely done in Power BI. It focuses on Proficiency on Power BI as a tool not only for visualisation but also querrying and transforming data and the use of DAX measures to analyse the data.
-Key perfromance Indicators tracked are
+The project tracks close to 8 KPI's and has 20+ visuals with insights and recommendations spanning across all areas of analysis.
